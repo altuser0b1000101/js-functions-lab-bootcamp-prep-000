@@ -1,1 +1,4 @@
-// write your code below!
+function happyHolidays(holidays) {
+holidays = 'Happy holidays!';
+console.log(holidays);
+}
