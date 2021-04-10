@@ -1,4 +1,3 @@
-function happyHolidays(holidays) {
-holidays = 'Happy holidays!';
-console.log(holidays);
+function happyHolidays() {
+  return "Happy holidays!";
 }
